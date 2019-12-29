@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2 python batch_process_new.py
